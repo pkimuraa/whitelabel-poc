@@ -1,0 +1,10 @@
+{
+    "title": "This is a small POC to whitelabel",
+    "steps": "There are some steps you need to follow:",
+    "env": "Set Enviroment Variables;", 
+    "colors": "Set Color Scheme for the desired product;",
+    "logoPos": "Define what type of background and logo it will use (options like vertical/horizontal);",
+    "features": "All features should be created a Boolean in the backend to use in the frontend",
+    "button": "tryOut",
+    "bgEg": "Background Example"
+}   

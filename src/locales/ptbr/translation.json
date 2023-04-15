@@ -1,0 +1,10 @@
+{
+    "title": "Isso é uma POC para um whitelabel",
+    "steps": "Precisa-se seguir alguns passos:",
+    "env": "Definir as variaveis de ambiente;",
+    "colors": "Definir as variaveis de cor de um produto;",
+    "logoPos": "Definir o tipo do logotipo e do background podendo ser horizontal ou vertical;",
+    "features": "Todas as funcionalidades devem vir de uma variavel do backend como uma booleana.",
+    "button": "Teste",
+    "bgEg": "Exemplo de Background"
+}
